@@ -1,0 +1,35 @@
+.my-input{
+    height: 35px;
+    width: 500px;
+}
+
+.my-container{
+    width: 700px;
+    background-color: lightgray;
+    border-radius: 25px;
+}
+
+li{
+    list-style: none;
+    font-size: 2em;
+    border-bottom: 1px solid black;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.fa-xmark{
+    line-height: 48px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.fa-xmark:hover{
+    color: red;
+}
+
+.my-button:hover{
+    background-color: blue;
+    color: red;
+}
